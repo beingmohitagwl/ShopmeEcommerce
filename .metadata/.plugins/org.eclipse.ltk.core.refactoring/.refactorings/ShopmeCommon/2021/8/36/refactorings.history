@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.shopme&apos; to &apos;com.shopme.common.entity&apos;&#x0D;&#x0A;- Original project: &apos;ShopmeCommon&apos;&#x0D;&#x0A;- Original element: &apos;ShopmeCommon/src/main/java/com.shopme&apos;&#x0D;&#x0A;- Renamed element: &apos;ShopmeCommon/src/main/java/com.shopme.common.entity&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.shopme&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.shopme" name="com.shopme.common.entity" qualified="false" references="true" stamp="1630224940299" textual="false" version="1.0"/>
+</session>
